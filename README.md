@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Andre 👋</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software • 💻 Focado em Backend com Python • 🌍 Inglês Avançado  
+🎓 Estudante de Engenharia de Software • 💻 Focado em Backend com Python • 🌍 Inglês Intermediario  
 </p>
 
 ---
