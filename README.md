@@ -124,24 +124,59 @@ Para solidificar minha transição, estou cursando **Engenharia de Software** e 
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### 📌 Sistema de Orçamento para Cercas
+
+API REST desenvolvida para gerenciamento de orçamentos com:
+
+* Spring Boot
+* PostgreSQL
+* Spring Security
+* JWT Authentication
+* Controle de acesso por perfis (ADMIN e USER)
+* Arquitetura em camadas
+* DTOs e boas práticas REST
+
+---
 
 
-### 📈 Estatísticas
+### 📌 Accident Alert API
 
-<p>
-  <img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=andrelsrn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+Sistema backend para registro e monitoramento de acidentes.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelsrn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+Tecnologias utilizadas:
 
-</p>
+* Java
+* Spring Boot
+* PostgreSQL
+* Docker
+* Documentação de APIs
+
+---
+
+## 📚 Atualmente Estudando
+
+* Microsserviços
+* Spring Cloud
+* RabbitMQ
+* Apache Kafka
+* Testes Automatizados
+* CI/CD
+* Arquitetura de Software
+* Design Patterns
+* SOLID
+
+---
+
+## 🎓 Formação
+
+* Engenharia de Software
+* Bootcamp Java - Cummins + Generation Brasil
+* Bootcamp Java Matera
+* Formação Backend Java
+* Estudos contínuos em Spring Boot e Arquitetura de Software
+
+---
+
+
