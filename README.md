@@ -7,8 +7,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%22Code+is+my+magic%22;7+anos+empreendendo+%2B+c%C3%B3digo+%3D+nova+jornada;Backend+Developer+%7C+Java+%2F+Spring+Boot)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot)
 </div>
 
 ---
