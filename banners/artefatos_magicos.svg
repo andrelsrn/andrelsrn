@@ -1,0 +1,51 @@
+<svg viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4D48C"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#A67C1E"/>
+    </linearGradient>
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4C8EDA"/>
+      <stop offset="100%" stop-color="#1B3A63"/>
+    </linearGradient>
+    <radialGradient id="gemGlow" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#9FD8FF"/>
+      <stop offset="55%" stop-color="#4C8EDA"/>
+      <stop offset="100%" stop-color="#12253F"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="120" fill="#0B0F1A"/>
+
+  <line x1="20" y1="60" x2="290" y2="60" stroke="url(#gold)" stroke-width="1.5" opacity="0.7"/>
+  <line x1="610" y1="60" x2="880" y2="60" stroke="url(#gold)" stroke-width="1.5" opacity="0.7"/>
+
+  <g transform="translate(60,20)">
+    <path d="M40 0 L78 14 L78 46 C78 72 58 88 40 96 C22 88 2 72 2 46 L2 14 Z"
+          fill="url(#blueGlow)" stroke="url(#gold)" stroke-width="2.5"/>
+    <path d="M40 10 L68 20 L68 46 C68 66 54 78 40 84 C26 78 12 66 12 46 L12 20 Z"
+          fill="none" stroke="url(#gold)" stroke-width="1" opacity="0.6"/>
+    <polygon points="40,28 50,42 40,68 30,42" fill="url(#gemGlow)" stroke="url(#gold)" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(760,20)">
+    <path d="M40 0 L78 14 L78 46 C78 72 58 88 40 96 C22 88 2 72 2 46 L2 14 Z"
+          fill="url(#blueGlow)" stroke="url(#gold)" stroke-width="2.5"/>
+    <path d="M40 10 L68 20 L68 46 C68 66 54 78 40 84 C26 78 12 66 12 46 L12 20 Z"
+          fill="none" stroke="url(#gold)" stroke-width="1" opacity="0.6"/>
+    <polygon points="40,28 50,42 40,68 30,42" fill="url(#gemGlow)" stroke="url(#gold)" stroke-width="1.5"/>
+  </g>
+
+  <rect x="300" y="55" width="10" height="10" fill="url(#gold)" transform="rotate(45 305 60)"/>
+  <rect x="590" y="55" width="10" height="10" fill="url(#gold)" transform="rotate(45 595 60)"/>
+
+  <text x="450" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="22" font-weight="bold" fill="url(#gold)" letter-spacing="1.5">
+    ARTEFATOS MÁGICOS
+  </text>
+  <text x="450" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="15" fill="#CFE0F5" letter-spacing="3">
+    PROJETOS EM DESTAQUE
+  </text>
+</svg>
